@@ -8,14 +8,20 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title : Guillermo Galan Photography
+tagline: Selected Photography
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Guillermo Galan
+  email : ggalan3@gmail.com
+  github : guillego
+  twitter : iamsiesta
+#  feedburner : feedname
+
+flickr:
+  api_key: 9dffb5a52e0cede67eaf0d3815ba5d6f 
+
+
+
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -82,7 +88,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : guillego
     livefyre :
       site_id : 123
     intensedebate :
@@ -100,7 +106,7 @@ JB :
   analytics :
     provider : google 
     google : 
-        tracking_id : 'UA-123-12'
+        tracking_id : ' '
     getclicky :
       site_id : 
     mixpanel :
