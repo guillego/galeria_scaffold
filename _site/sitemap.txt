@@ -1,0 +1,14 @@
+
+http://guillego.github.io/galeria/archive.html
+http://guillego.github.io/galeria/atom.xml
+http://guillego.github.io/galeria/categories.html
+http://guillego.github.io/galeria/index-old.html
+http://guillego.github.io/galeria/index.html
+http://guillego.github.io/galeria/pages.html
+http://guillego.github.io/galeria/rss.xml
+http://guillego.github.io/galeria/sitemap.txt
+http://guillego.github.io/galeria/tags.html
+
+http://guillego.github.io/galeria/2015/04/02/Somo,-Cantabria
+http://guillego.github.io/galeria/2015/04/01/Santander
+http://guillego.github.io/galeria/2014/12/28/Llerana,-Cantabria

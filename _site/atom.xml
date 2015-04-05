@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Guillermo Galan Photography</title>
+ <link href="http://guillego.github.io/galeria/" rel="self"/>
+ <link href="http://guillego.github.io/galeria"/>
+ <updated>2015-04-06T00:36:18+02:00</updated>
+ <id>http://guillego.github.io/galeria</id>
+ <author>
+   <name>Guillermo Galan</name>
+   <email>ggalan3@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Somo, Cantabria</title>
+   <link href="http://guillego.github.io/galeria/2015/04/02/Somo,-Cantabria"/>
+   <updated>2015-04-02T00:00:00+02:00</updated>
+   <id>http://guillego.github.io/galeria/2015/04/02/Somo,-Cantabria</id>
+   <content type="html">
+&lt;p&gt;&lt;a class=&quot;thumbnail&quot; href=&quot;https://www.flickr.com/photos/guillegalan/16412508863/&quot;&gt;&lt;img src=&quot;https://farm8.staticflickr.com/7584/16412508863_96f2372cd4_b.jpg&quot; title=&quot;Somo, Cantabria&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Santander</title>
+   <link href="http://guillego.github.io/galeria/2015/04/01/Santander"/>
+   <updated>2015-04-01T00:00:00+02:00</updated>
+   <id>http://guillego.github.io/galeria/2015/04/01/Santander</id>
+   <content type="html">
+&lt;p&gt;&lt;a class=&quot;thumbnail&quot; href=&quot;https://www.flickr.com/photos/guillegalan/16412511673/&quot;&gt;&lt;img src=&quot;https://farm9.staticflickr.com/8690/16412511673_29c17d5a1d_b.jpg&quot; title=&quot;Santander&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Llerana, Cantabria</title>
+   <link href="http://guillego.github.io/galeria/2014/12/28/Llerana,-Cantabria"/>
+   <updated>2014-12-28T00:00:00+01:00</updated>
+   <id>http://guillego.github.io/galeria/2014/12/28/Llerana,-Cantabria</id>
+   <content type="html">
+&lt;p&gt;&lt;a class=&quot;thumbnail&quot; href=&quot;https://www.flickr.com/photos/guillegalan/17022254692/&quot;&gt;&lt;img src=&quot;https://farm9.staticflickr.com/8686/17022254692_9e0a5de974_b.jpg&quot; title=&quot;Llerana, Cantabria&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>
